@@ -28,3 +28,5 @@ const PhantomIII:Car = {
 console.log(Lamborgini_Urus.brand);
 console.log(PhantomIII.brand);
 console.log(X3.color);
+
+export {};
